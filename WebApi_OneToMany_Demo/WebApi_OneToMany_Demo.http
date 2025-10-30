@@ -1,0 +1,6 @@
+@WebApi_OneToMany_Demo_HostAddress = http://localhost:5294
+
+GET {{WebApi_OneToMany_Demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
